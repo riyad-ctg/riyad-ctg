@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @riyad-ctg
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me ...
+### Hello!
+I'm Riyad, Software Engineer at [Orangetoolz](https://orangetoolz.com).
 
-<!---
-riyad-ctg/riyad-ctg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a software developer, I focus on web (particular interest in Typescript, React, NextJS), nodeJs, Laravel, and more.
+
+You can find me on [Linkedin](https://www.linkedin.com/in/shahidul-alam-riyad-433b6518b/)!
+
+Some highlighted projects (other than Professional works):
+- 📋 A shift time manager for a friend 😀 [Employee shift generator](http://174.138.166.202/~sariyadd/)
+
+👋 Please feel free to reach out on [Facebook](https://www.facebook.com/riyaddecoder/)
